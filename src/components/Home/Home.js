@@ -50,6 +50,12 @@ class Home extends Component {
           <About />
           <Footer />
         </main>
+        <div align='center'>
+          <a href='https://www.counter12.com'>
+            <img src='https://www.counter12.com/img-5a41B5zABdbxw81Z-15.gif' border='0' alt='counter' />
+          </a>
+          <script type='text/javascript' src='https://www.counter12.com/ad.js?id=5a41B5zABdbxw81Z'></script>
+        </div>
       </div>
     );
   }

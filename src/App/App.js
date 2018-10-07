@@ -32,9 +32,6 @@ class App extends Component {
             <Route path="/quiz"
             render={ (props) => <Quiz {...props} changeState={ this.updateState } />}
             />
-            <Route path="/itinerary" exact
-            render={ (props) => <Itinerary {...props} userAnswers={ this.state.userAnswers } />}
-            />
             <Route component={NotFound} />
           </Switch>
       </BrowserRouter>

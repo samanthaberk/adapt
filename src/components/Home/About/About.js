@@ -14,7 +14,7 @@ const about= (props) => (
              Data-Driven
             </h4>
             <p className="about-description">
-              Adapt is a machine-learning system built to assist teachers with personalizing school work
+              Aducate is a machine-learning system built to assist teachers with personalizing school work
             </p>
           </div>
         </div>

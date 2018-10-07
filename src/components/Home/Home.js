@@ -5,7 +5,6 @@ import SideBar from './SideBar/SideBar';
 import Backdrop from './Backdrop/Backdrop';
 import Jumbotron from './Jumbotron/Jumbotron';
 import About from './About/About';
-import Features from './Features/Features';
 import Footer from './Footer/Footer';
 
 class Home extends Component {
@@ -49,7 +48,6 @@ class Home extends Component {
         <main>
           <Jumbotron />
           <About />
-          <Features />
           <Footer />
         </main>
       </div>

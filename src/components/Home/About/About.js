@@ -14,7 +14,7 @@ const about= (props) => (
              Data-Driven
             </h4>
             <p className="about-description">
-              Adapt is a machine-learning system built to assist teachers
+              Adapt is a machine-learning system built to assist teachers with personalizing school work
             </p>
           </div>
         </div>
@@ -38,7 +38,7 @@ const about= (props) => (
              Meets Individual Student Needs
             </h4>
             <p className="about-description">
-
+              Every student gets learning content based on their current level that helps them progress
             </p>
           </div>
         </div>
@@ -55,10 +55,10 @@ const about= (props) => (
           <div className="about-content">
             <h4 className="about-title">
               <i className="material-icons number">filter_3</i>
-             Comprehensive Student Assessment
+             Comprehensive Student Assessments
             </h4>
             <p className="about-description">
-              Easily tailor your travel plan to your needs by rearranging items in the itinerary.
+              Dashboards built for teachers to help you keep up with student progress
             </p>
           </div>
         </div>
@@ -82,7 +82,7 @@ const about= (props) => (
               Teacher Friendly
             </h4>
             <p className="about-description">
-              Head off with confidence knowing your trip is tailor-made for you!
+              Reduces administrative tasks so you can spend more time teaching
             </p>
           </div>
         </div>

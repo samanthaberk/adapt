@@ -1,5 +1,5 @@
 .jumbotron {
-  background: linear-gradient( rgba(20, 20, 20, .6), rgba(20, 20, 20, .6)), url("./jumbotron.JPG");
+  background: linear-gradient( rgba(20, 20, 20, .6), rgba(20, 20, 20, .6)), url("./classroom.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -10,7 +10,7 @@
   justify-content: center;
   color: rgb(245, 245, 245);
   height: 45rem;
-  padding-top: 8rem;
+  padding-top: 1rem;
 }
 
 .jumbotron h3 {
@@ -44,6 +44,10 @@
 .jumbotron a {
   font-family: 'Indie Flower', cursive;
   font-size: 24px;
+}
+
+.subtitle {
+  font-style: italic;
 }
 
 @media (max-width: 769px) {

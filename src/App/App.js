@@ -3,7 +3,7 @@ import { BrowserRouter } from 'react-router-dom';
 import { Route, Switch } from 'react-router-dom';
 
 import Home from '../components/Home/Home';
-import Dashboard from '../components/Dashboard/Dashboard';
+import Dashboard from '../components/Dashboard/Collapsible';
 import NotFound from '../components/NotFound/NotFound';
 
 import './App.css';
